@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153805190325",
+    "project_id": "whatsapp-open",
+    "storage_bucket": "whatsapp-open.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153805190325:android:43c12a0d985754e46b3afc",
+        "android_client_info": {
+          "package_name": "com.OpenWhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153805190325-3fobjnr7hesvu5rlq306ulslselgj4aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGnNU2vHbJ4f5WwDXSJ92KsvZ0Eq720H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153805190325-3fobjnr7hesvu5rlq306ulslselgj4aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
